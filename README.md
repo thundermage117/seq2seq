@@ -1,6 +1,6 @@
 # seq2seq
 
-Sequence to Sequence translation using encoder-decoder model
+Sequence to Sequence translation using encoder-decoder model to translate sentences from one language to another.
 
 ## Requirements
 
